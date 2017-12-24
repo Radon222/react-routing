@@ -59,7 +59,6 @@ const data = [
     }
 ];
 
-
 render(
     <Router history={browserHistory}>
         <Route component={Main}>
